@@ -1,0 +1,10 @@
+data/*
+.ipynb_checkpoints
+__pycache__
+*.tar.xf
+*.tar.gz
+*.csv
+*.zip
+!submission.csv
+!dades_alumnes.zip
+!data/.gitkeep

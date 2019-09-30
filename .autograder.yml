@@ -1,0 +1,10 @@
+branch: test
+checksum: 976849cda3808475b8ae48b4998eb2a2995a44970db113d27b055fd232f08610
+default: true
+language: python3
+max_per_day: 3
+python:
+  importable: true
+  scriptify: true
+testset: tests-2019-a1
+version: 3
