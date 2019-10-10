@@ -8,3 +8,4 @@ __pycache__
 !submission.csv
 !dades_alumnes.zip
 !data/.gitkeep
+.DS_Store
